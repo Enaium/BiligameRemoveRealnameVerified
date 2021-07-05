@@ -4,7 +4,8 @@
 
 Python运行`main.py`
 
-手动代理
+手动代理 ip为电脑的IPv4地址打开连接属性可看到 端口为运行后的提示的端口
+
 [![RfTxC4.png](https://z3.ax1x.com/2021/07/04/RfTxC4.png)](https://imgtu.com/i/RfTxC4)
 
 访问 http://mitm.it/ 安装证书【可以不安装（测试MIUI12.5）】
