@@ -22,3 +22,5 @@ Python运行`main.py`
 [![Rf7aMn.png](https://z3.ax1x.com/2021/07/04/Rf7aMn.png)](https://imgtu.com/i/Rf7aMn)
 
 只试了碧蓝航线
+
+关键字:B站游戏 BiliBili游戏 实名认证 防沉迷
