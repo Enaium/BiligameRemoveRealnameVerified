@@ -7,7 +7,7 @@ Python运行`main.py`
 手动代理
 [![RfTxC4.png](https://z3.ax1x.com/2021/07/04/RfTxC4.png)](https://imgtu.com/i/RfTxC4)
 
-访问 http://mitm.it/ 安装证书
+访问 http://mitm.it/ 安装证书【可以不安装（测试MIUI12.5）】
 
 启动游戏登录
 
