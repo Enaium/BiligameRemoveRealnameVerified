@@ -25,6 +25,12 @@ Python运行`main.py`
 
 [![Rf7aMn.png](https://z3.ax1x.com/2021/07/04/Rf7aMn.png)](https://imgtu.com/i/Rf7aMn)
 
+如果重新打开游戏提示要实名
+
+[![R4sECV.png](https://z3.ax1x.com/2021/07/05/R4sECV.png)](https://imgtu.com/i/R4sECV)
+
+把`data["remind_status"] = "1"` 改为 `data["realname_verified"] = "1"`
+
 只试了碧蓝航线
 
 关键字:B站游戏 BiliBili游戏 实名认证 防沉迷
