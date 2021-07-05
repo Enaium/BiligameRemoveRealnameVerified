@@ -9,11 +9,15 @@ Python运行`main.py`
 
 访问 http://mitm.it/ 安装证书
 
-启动游戏登录(满90分钟登录的不行)
+启动游戏登录
 
-会提示你没实名让实名
+[![Rh5udS.png](https://z3.ax1x.com/2021/07/05/Rh5udS.png)](https://imgtu.com/i/Rh5udS)
+
+会提示你实名无效
 
 随便生成个填进去
+
+[![Rh5lGj.png](https://z3.ax1x.com/2021/07/05/Rh5lGj.png)](https://imgtu.com/i/Rh5lGj)
 
 之后进入游戏
 
