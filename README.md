@@ -32,6 +32,6 @@ Python运行`main.py`
 
 把`data["remind_status"] = "1"` 改为 `data["realname_verified"] = "1"`
 
-只试了碧蓝航线
+只试了碧蓝航线 大概持续24小时会恢复 再次重复步骤即可
 
 关键字:B站游戏 BiliBili游戏 实名认证 防沉迷
