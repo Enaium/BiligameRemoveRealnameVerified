@@ -8,7 +8,7 @@ Python运行`main.py`
 
 [![RfTxC4.png](https://z3.ax1x.com/2021/07/04/RfTxC4.png)](https://imgtu.com/i/RfTxC4)
 
-访问 http://mitm.it/ 安装证书【可以不安装（测试MIUI12.5）但是https访问会收到影响】
+访问 http://mitm.it/ 安装证书【可以不安装（测试MIUI12.5）但是https访问会】
 
 ## 取消实名 ⚠登录后可关闭
 
