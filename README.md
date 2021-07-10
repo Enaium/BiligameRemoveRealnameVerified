@@ -8,7 +8,7 @@ Python运行`main.py`
 
 [![RfTxC4.png](https://z3.ax1x.com/2021/07/04/RfTxC4.png)](https://imgtu.com/i/RfTxC4)
 
-访问 http://mitm.it/ 安装证书【可以不安装（测试MIUI12.5）但是https访问会】
+访问 http://mitm.it/ 安装证书【可以不安装但是https访问会访问不了】
 
 ## 取消实名 ⚠登录后可关闭
 
@@ -38,7 +38,7 @@ Python运行`main.py`
 
 ## 取消时间限制(记录时间) ⚠需要一直开着
 
-此工具也提供了取消时间限制(游客登录测试)
+此工具也提供了取消时间限制
 
 ## 配置
 
