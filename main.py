@@ -40,7 +40,7 @@ class Handler:
         if str(flow.response.text).__contains__("realname_verified"):
             data = json.loads(flow.response.text)
             data["realname_verified"] = "1"  # 是否实名
-            # data["remind_status"] = "1" # 实名是否有效
+            # data["remind_status"] = "1" # 实名是否无效
             flow.response.set_text(str(data))
             if self.info:
                 print("实名修改成功")
