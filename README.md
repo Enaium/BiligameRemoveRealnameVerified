@@ -10,7 +10,9 @@ Python运行`main.py`
 
 访问 http://mitm.it/ 安装证书【可以不安装但是https访问会访问不了】
 
-## 取消实名 ⚠登录后可关闭
+## ~~取消实名 ⚠登录后可关闭~~ 此方法已被修复
+
+[![WmrsKS.png](https://z3.ax1x.com/2021/07/15/WmrsKS.png)](https://imgtu.com/i/WmrsKS)
 
 启动游戏登录***⚠90分钟禁止进入游戏的可能不行***
 
