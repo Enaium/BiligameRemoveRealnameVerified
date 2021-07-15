@@ -39,8 +39,9 @@ class Handler:
 
         if str(flow.response.text).__contains__("realname_verified"):
             data = json.loads(flow.response.text)
-            if str(data["realname_verified"]).__eq__("1") and str(data["remind_status"]).__eq__("0"):
-                data["remind_status"] = "1"  # 实名是否无效
+            # 实名无效改实名方法已被修复
+            # if str(data["realname_verified"]).__eq__("1") and str(data["remind_status"]).__eq__("0"):
+            #    data["remind_status"] = "1"  # 实名是否无效
 
             if str(data["realname_verified"]).__eq__("0"):
                 data["realname_verified"] = "1"  # 是否实名
