@@ -32,7 +32,7 @@ Python运行`main.py`
 
 [![R4sECV.png](https://z3.ax1x.com/2021/07/05/R4sECV.png)](https://imgtu.com/i/R4sECV)
 
-把`data["remind_status"] = "1"` 改为 `data["realname_verified"] = "1"`
+每次登录开着工具
 
 大概持续24小时会恢复 再次重复步骤即(提前查看是否有实名验证,以防90分钟禁止进入游戏)
 
