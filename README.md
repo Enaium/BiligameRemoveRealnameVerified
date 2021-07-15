@@ -43,7 +43,7 @@ Python运行`main.py`
 
 ## 取消时间限制(记录时间) ⚠需要一直开着
 
-此工具也提供了取消时间限制
+移步至[BiligameTimeHeartbeatIntercept](https://github.com/Enaium/BiligameTimeHeartbeatIntercept)
 
 ## 配置
 
