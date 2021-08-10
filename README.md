@@ -1,5 +1,11 @@
 # BiligameRemoveRealnameVerified B站游戏实名验证移除
 
+此项目以失效
+
+相关链接:
+
+[BiligameTimeHeartbeatIntercept](https://github.com/Enaium/BiligameTimeHeartbeatIntercept)
+
 安装mitmproxy `pip install mitmproxy`
 
 Python运行`main.py`
