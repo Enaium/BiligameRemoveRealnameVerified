@@ -5,7 +5,7 @@
 相关链接:
 
 [BiligameTimeHeartbeatIntercept](https://github.com/Enaium/BiligameTimeHeartbeatIntercept)
-[BiligameCanPayIsAdult](https://github.com/Enaium/BiligameCanPayIsAdult)
+[BiligameAddictionNotLimited](https://github.com/Enaium/BiligameAddictionNotLimited)
 
 安装mitmproxy `pip install mitmproxy`
 
